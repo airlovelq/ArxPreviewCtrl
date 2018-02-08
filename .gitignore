@@ -1,0 +1,9 @@
+*.user
+*.vspscc
+Debug
+GeneratedFiles
+x64
+*.tlog
+*.obj
+*.log
+*.lastbuildstate
